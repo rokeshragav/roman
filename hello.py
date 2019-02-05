@@ -1,3 +1,3 @@
-punk=int(input())
-for i in range(0,punk):
-	print ("Hello")
+a=int(input())
+for i in range(a):
+ print("hello")
